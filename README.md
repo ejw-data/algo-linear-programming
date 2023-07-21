@@ -14,7 +14,7 @@ Linear programming examples using Excel and Python
 ## Excel Simulations  
 1.  `constrained_linear_equations.xlsx` - Selecting product quantity to produce maximize profits and keeping with raw material inventory.
 1.  `transportation-goods.xlsx` - Selecting factory production and shipments of each product to each country while minimizing cost, meeting demand, and not exceeding factory capacity.  
-1.  `adv-transportation-goods` - work in progress
+1.  `adv-transportation-goods.xlsx` - work in progress
 
 <br>
 
