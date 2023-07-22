@@ -30,6 +30,6 @@ Linear programming examples using Excel and Python
 
 ### Technologies
 * Excel
-* Python PULP
+* Python PuLP
 ### Improvements
 * add visualization of Excel and Python answers
