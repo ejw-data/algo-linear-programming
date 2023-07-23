@@ -4,6 +4,7 @@ desktop.ini
 
 # Temp Files
 snippet.py
+ignore/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
