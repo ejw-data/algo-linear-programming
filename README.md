@@ -1,4 +1,4 @@
-# algo-linear-programming
+# linear-programming-production-scheduling
 
 Author:  Erin James Wills, ejw.data@gmail.com  
 
